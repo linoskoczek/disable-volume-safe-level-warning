@@ -1,0 +1,7 @@
+id=change_audio_safemedia_bypass
+name=Disable Volume Safe Level Warning
+version=v1.0
+versionCode=1
+author=linoskoczek
+description=Change audio.safemedia.bypass to true on boot.
+minMagisk=23000
