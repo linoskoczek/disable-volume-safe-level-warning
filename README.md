@@ -1,6 +1,6 @@
-# Disable Volume Safe Level Warning
+# Disable Volume Safe Level Warning (Magisk)
 
-This module will change `audio.safemedia.bypass` to `true` during boot in order to not show the Volume Safe Level warning on your Android device.
+This Magisk module will change `audio.safemedia.bypass` to `true` during boot in order to not show the Volume Safe Level warning on your Android device.
 
 ## How to install
 
